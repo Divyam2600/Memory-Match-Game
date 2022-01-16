@@ -71,4 +71,8 @@ Run your build process with `npm run dev`or whatever command is configured in yo
 
 ```bash
 npm run dev
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 62ce8c357a46ea4c57ce2be93f8c8d41092a90bf
