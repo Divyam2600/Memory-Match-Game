@@ -6,7 +6,7 @@ Vite is a build tool that aims to provide a faster and leaner development experi
 
 ## How To Start :
 
-    ### Install Vite and create React project:
+### Install Vite and create React project:
 
     Execute [`vite`](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
